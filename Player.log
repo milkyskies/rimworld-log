@@ -1,0 +1,838 @@
+Mono path[0] = '/Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Resources/Data/Managed'
+Mono config path = '/Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Resources/Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+2022-11-28 03:02:32.000 RimWorld by Ludeon Studios[94053:6455111] (null) preferred device: Apple M1 Pro (high power)
+2022-11-28 03:02:32.000 RimWorld by Ludeon Studios[94053:6455111] Metal devices available: 1
+2022-11-28 03:02:32.000 RimWorld by Ludeon Studios[94053:6455111] 0: Apple M1 Pro (high power)
+2022-11-28 03:02:32.000 RimWorld by Ludeon Studios[94053:6455111] Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.172 seconds
+UnloadTime: 2.111625 ms
+[S_API] SteamAPI_Init(): Loaded '/Users/onesc/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steamclient.dylib' OK.
+Setting breakpad minidump AppID = 294100
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198025065310 [API loaded no]
+RimWorld 1.4.3558 rev335
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32.dll
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32.dll
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Tried loading mod with the same packageId multiple times: Jaxe.Bubbles. Ignoring the duplicates.
+/Users/onesc/Library/Application Support/Steam/steamapps/workshop/content/294100/1516158345
+/Users/onesc/Library/Application Support/Steam/steamapps/workshop/content/294100/2553619439 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: Jaxe.Bubbles. Ignoring the duplicates.
+/Users/onesc/Library/Application Support/Steam/steamapps/workshop/content/294100/1516158345
+/Users/onesc/Library/Application Support/Steam/steamapps/workshop/content/294100/2553619439 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ab0028000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7adec9b600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae0138000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef4fda00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0138000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac00f0000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb09e00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeed94e00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef500c00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0328000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae03a8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb01e00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad8134c00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae0748000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0160000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef50b000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeedfa000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefaae200.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae0170000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0148000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0350000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb0ee00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0348000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0438000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0460000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae0768000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb18400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac8008000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef534200.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0488000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee23200.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad04b8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee29400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae07a0000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb16400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad05d8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0450000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb1e000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef537600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee49600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aded21c00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0470000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb24600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef53ba00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb2c600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb2ee00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0180000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee4e200.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb35400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae09c8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad04d8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0498000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef551600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad8150600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb47400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef554000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0720000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef543600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac04f8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac80f0000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0740000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae07d8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb53a00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0758000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb5a200.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef56c400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee58e00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0770000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae0a10000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee5dc00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee62e00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0530000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee66800.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee6d800.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee79c00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad07a8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad07b8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb6a800.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb6f000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb71400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0560000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee82a00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad8936400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee8c000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0998000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee99000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeee9ba00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad09a8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad09c8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb76600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef560a00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef57c200.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeeead600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb7fe00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad09e8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeeebd800.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeeec3c00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef580a00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeeecd800.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeeedb400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0a08000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeeee4600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad8158c00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0a18000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb81400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0a28000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac04d8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb89e00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0a40000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0a70000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeeefe800.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae0a28000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0ab0000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef16800.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef583a00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef585a00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7adedbbe00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0ad8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aef58aa00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7adedc7e00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0be0000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef23200.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb7ca00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb8dc00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef25400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0c18000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef3d400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef44400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef49000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0c48000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0c80000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefb8fc00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef88c00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0818000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef3b400.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef4ee00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0cc8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae0a40000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef99c00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeef9de00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeefa2000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0838000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeefa5a00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac0848000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0ce8000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeefb5a00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0d00000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeefc3600.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeefcbe00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0d10000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aeefd0000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0d20000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7adedf0e00.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ac8118000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0d30000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7a9e845200.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/kernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/kernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libkernel32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libkernel32
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/./libdl.so.2.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.so
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2.bundle
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.2
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefc63600.dylib
+[HugsLib] version 10.0.1
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefd11800.dylib
+[VanillaAchievementsExpanded] version 1.4.8315
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7aefde9e00.dylib
+dubwise.dubsbadhygiene 3.0.2228
+DubsBreakMod 1.0.1275
+DubsMintMenus v1.3.995
+Fluffy Breakdowns :: Initialized
+Rimatomics 1.7.2500
+Dubs Skylight 1.5.2110
+Moody settings loaded
+RaiseRolesLimit: start patching
+RaiseRolesLimit: anchor string foud at line 58
+RaiseRolesLimit: code patched at line 56
+RaiseRolesLimit: code patched at line 59
+ModContentPack.LoadPatches does not matches the reference. Skipping transpiler 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ae0a60000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0db0000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0d80000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad0dd0000.dylib
+Fallback handler could not load library /Users/onesc/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Contents/Frameworks/MonoEmbedRuntime/osx/data-0x7f7ad11f0000.dylib
+GAGARIN: <color=green>Cache not found or got purged!</color> 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+LWM Deep Storage: activated compatibility patch for Dubs Bad Hygiene
+Key binding conflict: MainTab_MedicalTab and Misc7 are both bound to M. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: MainTab_History and NextPawnMode are both bound to F9. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Key binding conflict: Misc7 and MainTab_MedicalTab are both bound to M. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language English has 13 errors. Generate translation report for more info. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Damage Indicators initialized.
+Medical Tab :: Tag Tongue is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wall Light: v1.4.8348.3000
+Wall Light - Replace Stuff compatibility initialized.
+[RimHUD v1.11.3] Initialized
+LWM.DeepStorage: Making Shelf, ShelfSmall, Hopper, Shelf_WeaponRack, VFES_AmmoCrate, Shelf_RepairRack, VFEA_SuperNaniteContainment, VFEM_HeavyHopper, AG_AncientShelf into Deep Storage
+LWM Update: testing for Rebel and 302 version
+More Vanilla Biomes initialized
+[OpenTheWindows] Dubs Skylights detected! Integrating...
+Table Diner patched Common Sense
+[RealRuins][System]: RealRuins started patching at 11/28/2022 3:04:26 AM
+[RealRuins][System]: RealRuins performing manual patching optional mods at 11/28/2022 3:04:26 AM
+[RealRuins][System]: SRTS not found, skipping...
+[RealRuins][System]: RealRuins finished patching at 11/28/2022 3:04:26 AM (58.3 msec)
+Path Avoid: Adding Harmony Postfix to PawnUtility.GetAvoidGrid()
+Textures were not found for one or more extended graphics, enable devmode for more information
+Loaded graphic variants for Human
+Variants found for Things/Pawn/Humanlike/Heads/: 0
+Total variants found for Things/Pawn/Humanlike/Heads/: 0
+Variants found for Things/Pawn/Humanlike/Heads/Male/Male_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Male/Male_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/Male/Male_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Male/Male_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/Male/Male_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Male/Male_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/Female/Female_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Female/Female_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/Genes/None_Gaunt_Average: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Genes/None_Gaunt_Average: 1
+Variants found for Things/Pawn/Humanlike/Heads/Male/Male_HeavyJaw_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Male/Male_HeavyJaw_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/Female/Female_HeavyJaw_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/Female/Female_HeavyJaw_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Average1_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Average1_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Average2_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Average2_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Average2_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Average2_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Gaunt_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Gaunt_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Narrow1_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Narrow1_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Narrow2_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Narrow2_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Narrow3_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Narrow3_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Wide1_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Wide1_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Wide2_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Wide2_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/FurCovered_Wide3_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/FurCovered_Wide3_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_SlugFace/AG_SlugFace_Narrow: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_SlugFace/AG_SlugFace_Narrow: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_SlugFace/AG_SlugFace_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_SlugFace/AG_SlugFace_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_SlugFace/AG_SlugFace_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_SlugFace/AG_SlugFace_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Female_Eyeless_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Eyeless/AG_Male_Eyeless_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Male_Fox_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Male_Fox_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Male_Fox_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Male_Fox_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Male_Fox_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Male_Fox_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Female_Fox_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Female_Fox_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Female_Fox_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Female_Fox_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Female_Fox_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Fox/AG_Female_Fox_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Female_Silver_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_Silver/AG_Male_Silver_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Female_TrueBlack_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Average_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Average_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Average_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Average_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Average_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Average_Wide: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Narrow_Normal: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Narrow_Normal: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Narrow_Pointy: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Narrow_Pointy: 1
+Variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Narrow_Wide: 1
+Total variants found for Things/Pawn/Humanlike/Heads/AG_TrueBlack/AG_Male_TrueBlack_Narrow_Wide: 1
+Variants found for Things/Pawn/Humanlike/Bodies/: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Naked_Child: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Naked_Child: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Naked_Child: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Naked_Child: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Naked_Male: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Naked_Male: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Naked_Female: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Naked_Female: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Naked_Thin: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Naked_Thin: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Naked_Hulk: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Naked_Hulk: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Naked_Fat: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Naked_Fat: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Fat: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Fat: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Fat: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Fat: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Hulk: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Hulk: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Hulk: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Hulk: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Thin: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Thin: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Thin: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Thin: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Female: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Female: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Female: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Female: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Male: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Male: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Male: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Male: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Child: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Child: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Child: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Child: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Child: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Male_Naked_Child: 0
+Variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Child: 0
+Total variants found for Things/Pawn/Humanlike/Bodies/Female_Naked_Child: 0
+Total variants found for : 0
+Variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Child: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Child: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Child: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Child: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Male: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Male: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Male: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Male: 1
+Variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Male: 1
+Total variants found for Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Male: 1
+Variants found for Things/Pawn/Humanlike/Heads/None_Average_Skull: 1
+Total variants found for Things/Pawn/Humanlike/Heads/None_Average_Skull: 1
+Variants found for Things/Pawn/Humanlike/Heads/None_Average_Stump: 1
+Total variants found for Things/Pawn/Humanlike/Heads/None_Average_Stump: 1
+
+Textures were not found for one or more extended graphics, enable devmode for more information
+Textures were not found for one or more extended graphics, enable devmode for more information
+Alien race successfully completed 199 patches with harmony.
+[NoMissingGeneIcons]: Fixed missing gene-graphics for 0 ChemicalDefs. 
+
+ModContentPack.LoadPatches does not matches the reference. Skipping transpiler 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RaiseRolesLimit: start patching
+RaiseRolesLimit: anchor string foud at line 58
+RaiseRolesLimit: code patched at line 56
+RaiseRolesLimit: code patched at line 59
+MVCF successfully applied 33 patches
+Transpiled 1883 methods, it took: 5.082705
+[HugsLib] initializing SearchAndDestroy, TurnItOnandOff, ImprovedWorkbenches, LokiVKlokeNaAndoke.AutoPriorities, RealRuins, Hospitality, Autopsy, CashRegister, Gastronomy, EndlessRimworld, DefensivePositions, RunAndGun
+[TurnItOnandOff] Initialized
+[LokiVKlokeNaAndoke.AutoPriorities] Patching for: fluffy.worktab
+Excluded PowerUser:StandingLamp
+Excluded PowerUser:SunLamp
+PowerUser:TubeTelevision
+PowerUser:FlatscreenTelevision
+PowerUser:MegascreenTelevision
+Excluded PowerUser:OrbitalTradeBeacon
+Excluded PowerUser:CommsConsole
+Excluded PowerUser:MoisturePump
+PowerUser:GroundPenetratingScanner
+PowerUser:LongRangeMineralScanner
+PowerUser:MultiAnalyzer
+PowerUser:VitalsMonitor
+Excluded PowerUser:WoodFiredGenerator
+Excluded PowerUser:ChemfuelPoweredGenerator
+Excluded PowerUser:WindTurbine
+Excluded PowerUser:SolarGenerator
+Excluded PowerUser:GeothermalGenerator
+Excluded PowerUser:WatermillGenerator
+PowerUser:ElectricTailoringBench
+PowerUser:ElectricSmithy
+PowerUser:TableMachining
+PowerUser:ElectricStove
+PowerUser:ElectricSmelter
+PowerUser:BiofuelRefinery
+PowerUser:FabricationBench
+PowerUser:HiTechResearchBench
+PowerUser:ElectricCrematorium
+Excluded PowerUser:HydroponicsBasin
+PowerUser:DeepDrill
+Excluded PowerUser:NutrientPasteDispenser
+Excluded PowerUser:Turret_MiniTurret
+Excluded PowerUser:Turret_Autocannon
+Excluded PowerUser:Turret_Sniper
+Excluded PowerUser:Turret_FoamTurret
+Excluded PowerUser:Turret_RocketswarmLauncher
+Excluded PowerUser:Ship_Reactor
+Excluded PowerUser:PsychicEmanator
+Excluded PowerUser:VanometricPowerCell
+Excluded PowerUser:InfiniteChemreactor
+Excluded PowerUser:Autodoor
+Excluded PowerUser:Heater
+Excluded PowerUser:Cooler
+Excluded PowerUser:UnstablePowerCell
+Excluded PowerUser:ShipLandingBeacon
+Excluded PowerUser:SleepAccelerator
+Excluded PowerUser:BiosculpterPod
+Excluded PowerUser:NeuralSupercharger
+PowerUser:LightBall
+PowerUser:Loudspeaker
+Excluded PowerUser:Autobong
+Excluded PowerUser:DeathrestCasket
+Excluded PowerUser:Hemopump
+Excluded PowerUser:HemogenAmplifier
+Excluded PowerUser:GlucosoidPump
+Excluded PowerUser:PsychofluidPump
+Excluded PowerUser:DeathrestAccelerator
+Excluded PowerUser:BandNode
+Excluded PowerUser:ToxifierGenerator
+Excluded PowerUser:GeneAssembler
+Excluded PowerUser:GeneBank
+Excluded PowerUser:GeneExtractor
+Excluded PowerUser:GrowthVat
+Excluded PowerUser:PollutionPump
+Excluded PowerUser:WastepackAtomizer
+Excluded PowerUser:GeneProcessor
+Excluded PowerUser:MechBooster
+PowerUser:MechGestator
+PowerUser:LargeMechGestator
+PowerUser:SubcoreEncoder
+Excluded PowerUser:SubcoreSoftscanner
+Excluded PowerUser:SubcoreRipscanner
+Excluded PowerUser:BasicRecharger
+Excluded PowerUser:StandardRecharger
+PowerUser:TableAnimalProsthetics
+PowerUser:VEF_AdvancedAnimalImplantsTable
+Excluded PowerUser:AA_HexagelCoreReactor
+Excluded PowerUser:AM_GrogDispenser
+PowerUser:FM_ManagerStation
+PowerUser:FM_AIManager
+Excluded PowerUser:ToiletAdvStuff
+Excluded PowerUser:ShowerAdvStuff
+Excluded PowerUser:HotTub
+Excluded PowerUser:WashingMachine
+Excluded PowerUser:DBHSaunaHeaterElec
+Excluded PowerUser:ElectricPump
+Excluded PowerUser:PumpingStation
+Excluded PowerUser:SewageTreatment
+Excluded PowerUser:WaterTreatment
+Excluded PowerUser:ElectricBoiler
+Excluded PowerUser:CeilingFan
+Excluded PowerUser:CeilingFanS
+Excluded PowerUser:AirConOutdoorUnit
+Excluded PowerUser:AirconIndoorUnit
+Excluded PowerUser:FreezerUnit
+Excluded PowerUser:Table_LightEndTable
+Excluded PowerUser:Radio_Industrial
+Excluded PowerUser:Radio_Spacer
+Excluded PowerUser:Joy_Arcade
+Excluded PowerUser:Joy_InudstrialComputer
+Excluded PowerUser:Joy_ModernComputer
+Excluded PowerUser:Light_Streetlamp
+Excluded PowerUser:VFE_Ecosystem
+Excluded PowerUser:VFE_Hydroponics_Tilable
+Excluded PowerUser:VFE_Ecosystem_Tilable
+Excluded PowerUser:VFE_Sprinkler
+Excluded PowerUser:Facility_VitalsCentre
+PowerUser:VFE_TableMachiningLarge
+PowerUser:VFE_TableSmithyLarge
+PowerUser:VFE_TableStoveLarge
+PowerUser:VFE_TableTailorLarge
+PowerUser:VFE_ComponentFabricationBench
+PowerUser:VFE_TableButcherElectric
+PowerUser:VFE_TableDrugLabElectric
+PowerUser:VFE_TableStonecutterElectric
+Excluded PowerUser:VFES_DeployableBarrier
+Excluded PowerUser:VFES_Turret_FloorTurret
+Excluded PowerUser:VFES_Turret_AutocannonDouble
+Excluded PowerUser:VFES_Turret_MilitaryTurret
+Excluded PowerUser:VFES_Turret_Searchlight
+Excluded PowerUser:VFES_Turret_Flame
+Excluded PowerUser:VFES_ShieldGenerator_Small
+Excluded PowerUser:VFES_ShieldGenerator_Large
+Excluded PowerUser:VFES_Turret_ChargeTurret
+Excluded PowerUser:VFES_Turret_ChargeRailgunTurret
+Excluded PowerUser:VFES_Turret_EMPTurret
+Excluded PowerUser:Table_IlluminatedEndTable
+Excluded PowerUser:Table_IlluminatedDresser
+Excluded PowerUser:UltrascreenTV
+Excluded PowerUser:Light_SpacerLamp
+Excluded PowerUser:Shelf_RepairRack
+Excluded PowerUser:Table_interactive_1x1c
+Excluded PowerUser:Table_interactive_2x2c
+Excluded PowerUser:VTE_TradingTerminal
+Excluded PowerUser:Lighting_MURWallLight
+Excluded PowerUser:Lighting_MURWallSunLight
+Excluded PowerUser:Cooler_Over
+Excluded PowerUser:Cooler_Over2W
+Excluded PowerUser:NuclearResearchBench
+PowerUser:TableRimatomicsMachining
+Excluded PowerUser:ResearchReactor
+Excluded PowerUser:WeaponsBench
+Excluded PowerUser:PlutoniumProcessor
+Excluded PowerUser:RimatomicsRTG
+Excluded PowerUser:ReactorCoreA
+Excluded PowerUser:ReactorCoreB
+Excluded PowerUser:ReactorCoreC
+Excluded PowerUser:Turbine
+Excluded PowerUser:BigTurbine
+Excluded PowerUser:CoolingRadiator
+Excluded PowerUser:CoolingWater
+Excluded PowerUser:CoolingTower
+Excluded PowerUser:Transformer
+Excluded PowerUser:ReactorControl
+Excluded PowerUser:storagePool
+Excluded PowerUser:RadiationDetector
+Excluded PowerUser:DU_Blastdoor
+Excluded PowerUser:PPCWeaponsConsole
+Excluded PowerUser:RadarDish
+Excluded PowerUser:PPCADS
+Excluded PowerUser:PPCTeslaCoil
+Excluded PowerUser:PPCHEL
+Excluded PowerUser:PPCRailgun
+Excluded PowerUser:PPCObelisk
+Excluded PowerUser:PPCMarauder
+Excluded PowerUser:RimatomicsShieldGenerator
+Excluded PowerUser:MissileSilo
+Excluded PowerUser:Owl_CeilingLight
+Excluded PowerUser:Owl_LongCeilingLight
+Excluded PowerUser:Owl_CeilingSunLamp
+Excluded PowerUser:VFEA_WallLamp
+Excluded PowerUser:VFEA_WallLamp_Red
+Excluded PowerUser:VFEA_WallLamp_Green
+Excluded PowerUser:VFEA_WallLamp_Blue
+Excluded PowerUser:VFEA_GeneTailoringPod
+Excluded PowerUser:VFEA_SuperNaniteInjectorPump
+Excluded PowerUser:VFEA_SuperNaniteDialyzer
+Excluded PowerUser:VFEA_SuperNaniteCentrifuge
+Excluded PowerUser:VFEA_SimulationDrive
+Excluded PowerUser:VFEA_GenomeStabilizer
+Excluded PowerUser:VFEA_SuperNaniteContainment
+Excluded PowerUser:VFEA_GenomeMacrothermometer
+Excluded PowerUser:VFEA_StabilisedMucusInducer
+Excluded PowerUser:VFEA_NanotechRetractor
+Excluded PowerUser:VFEA_NaniteSampler
+Excluded PowerUser:VFEA_AncientVitalsMonitor
+Excluded PowerUser:VFEA_AncientSolarGenerator
+Excluded PowerUser:VFEA_AncientChemfuelPoweredGenerator
+Excluded PowerUser:VFEA_AncientGeothermalPlant
+Excluded PowerUser:VFEA_AncientBioBatteryTank
+PowerUser:VFEA_ElectricMendingStation
+Excluded PowerUser:VFEA_AncientHydroponicFarm
+PowerUser:VFEA_AncientCookingStation
+PowerUser:VFEA_AncientWorkshop
+Excluded PowerUser:VFEA_Turret_AncientSecurityTurret
+Excluded PowerUser:VFEA_Turret_AncientPointDefense
+Excluded PowerUser:VFEA_VaultDoor
+Excluded PowerUser:VFEA_AncientHeater
+Excluded PowerUser:VFEA_AncientCooler
+Excluded PowerUser:VFEM_ElectronicsFabricationFactory_SteelExtractor
+Excluded PowerUser:VFEM_ElectronicsFabricationFactory_ComponentAssembler
+Excluded PowerUser:VFEM_ElectronicsFabricationFactory_AdvancedAssembler
+Excluded PowerUser:VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier
+Excluded PowerUser:VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith
+Excluded PowerUser:VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry
+Excluded PowerUser:VFEM_WearablesAndTextileFactory_TextileRecycler
+Excluded PowerUser:VFEM_WearablesAndTextileFactory_AutoLoom
+Excluded PowerUser:VFEM_WearablesAndTextileFactory_SynthreadSynthesizer
+Excluded PowerUser:VFEM_ProvisionsPackagingFactory_MeatGrinder
+Excluded PowerUser:VFEM_ProvisionsPackagingFactory_ConveyorOven
+Excluded PowerUser:VFEM_MedicinalCompoundingFactory_NeutroamineInfuser
+Excluded PowerUser:VFEM_MedicinalCompoundingFactory_MedicineGranulator
+Excluded PowerUser:VFEM_MedicinalCompoundingFactory_DrugPowderizer
+Excluded PowerUser:VFEM_MasonryAndMetallicsFactory_AutomaticDrill
+Excluded PowerUser:VFEM_MasonryAndMetallicsFactory_MasonrySaw
+Excluded PowerUser:VFEM_MasonryAndMetallicsFactory_PlasteelForge
+Excluded PowerUser:VFEM_VersatileAssembler
+Excluded PowerUser:VFEM_Autocrane
+Excluded PowerUser:VFE_Mechanoids_AutocleanerBase
+Excluded PowerUser:VFE_Mechanoids_AutohaulerBase
+Excluded PowerUser:VFE_Mechanoids_AutominerBase
+Excluded PowerUser:VFE_Mechanoids_CombatBase
+Excluded PowerUser:VFE_Mechanoids_RiotBase
+Excluded PowerUser:VFE_Mechanoids_TurretBase
+Excluded PowerUser:VFE_Mechanoids_Autosower
+Excluded PowerUser:VFE_Mechanoids_Autoharvester
+Excluded PowerUser:VFE_Mechanoids_AutostriderBase
+Excluded PowerUser:VFE_Mechanoids_AutoMedicBase
+Excluded PowerUser:VFE_Mechanoids_RaiderBase
+Excluded PowerUser:VFE_Mechanoids_AutobroadcasterBase
+Excluded PowerUser:VFE_Mechanoids_PyroBase
+Excluded PowerUser:VFE_ConduitPylon
+Excluded PowerUser:VFE_Supercomputer
+Excluded PowerUser:VFE_Turret_AutoTesla
+Excluded PowerUser:VFE_IndoctrinationPod
+Excluded PowerUser:Building_RTMagneticShield
+PowerUser:AdvancedMedicalStation
+PowerUser:BionicWorkbench
+PowerUser:TableMending
+Excluded PowerUser:AB_AlcyoniteSolar
+Excluded PowerUser:AB_OcularGasSpewer
+Excluded PowerUser:AB_AlienComplianceCenter
+Excluded PowerUser:AB_CoreSampleDrill
+Excluded PowerUser:AB_PropanePump
+PowerUser:AB_ExoticSmelterOcular
+Excluded PowerUser:AB_ExoticAutoDoor
+Excluded PowerUser:AB_TarPump
+Excluded PowerUser:Light_ModernDarkLamp
+Excluded PowerUser:Table_DarkLightEndTable
+Excluded PowerUser:Light_OutdoorDarkLamp
+Excluded PowerUser:DeathrestCasketGuest
+[ShowMeYourHands]: Defined hand definitions of 60 weapons
